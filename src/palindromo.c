@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <palinfunc.h>
+
 int esPalindromo(char *palabra)
 
 {
